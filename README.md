@@ -1,3 +1,5 @@
+# Useful and efficient algorithms for secp256k1 elliptic curve
+
 <p>In this article, we will consider several useful and efficient algorithms for an elliptic curve&nbsp;&nbsp;<strong><em>E</em></strong>&nbsp;&nbsp;over a field&nbsp;&nbsp;<strong><em>GF(p)</em></strong>&nbsp;&nbsp;given by the short Weierstrass equation</p>
 <p><code>у^2&nbsp;= х^3&nbsp;+ Ах + В</code></p>
 <ul>
